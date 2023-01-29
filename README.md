@@ -680,13 +680,11 @@ margin-right:auto;
 ```
 
 ## Output:
-![OUTPUT](./out11.png)
-![OUTPUT](./out12.png)
-![OUTPUT](./out13.png)
-![OUTPUT](./out14.png)
+![OUTPUT](./img/p1.png)
+![OUTPUT](./img/p2.png)
+![OUTPUT](./img/p3.png)
+![OUTPUT](./img/p4.png)
 
-## HTML Validator
-![OUTPUT](./valid15.png)
 
 
 ## Result:
